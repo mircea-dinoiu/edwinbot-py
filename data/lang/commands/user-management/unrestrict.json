@@ -1,0 +1,39 @@
+{
+	"ERROR_COMMAND_NOT_RESTRICTED": {
+		"en": "Command {0} doesn't seem to be restricted for {1}, {2}.",
+		"ro": "Comanda {0} nu pare a fi restricţionată lui {1}, {2}."
+	},
+	"ERROR_COMMANDS_NOT_RESTRICTED": {
+		"en": "Commands {0} doesn't seem to be restricted for {1}, {2}.",
+		"ro": "Comenzile {0} nu par a fi restricţionate lui {1}, {2}."
+	},
+	"ERROR_GAME_NOT_RESTRICTED": {
+		"en": "{0} game doesn't seem to be restricted for {1}, {2}.",
+		"ro": "Jocul {0} nu pare a fi restricţionat lui {1}, {2}."
+	},
+	"ERROR_GAMES_NOT_RESTRICTED": {
+		"en": "Games {0} doesn't seem to be restricted for {1}, {2}.",
+		"ro": "Jocurile {0} nu par a fi restricţionate lui {1}, {2}."
+	},
+
+    "SUCCESS_ALL_RESTRICTIONS_REMOVED": {
+		"en": "All the restrictions have been removed for user {0}, {1}.",
+		"ro": "Toate restricţiile au fost eliminate pentru utilizatorul {0}, {1}."
+	},
+	"SUCCESS_COMMAND_UNRESTRICTED": {
+		"en": "Command {0} will be available for user {1} from now on, {2}.",
+		"ro": "Comanda {0} va putea fi folosită din nou de către {1}, {2}."
+	},
+	"SUCCESS_COMMANDS_UNRESTRICTED": {
+		"en": "Commands {0} will be available for user {1} from now on, {2}.",
+		"ro": "Comenzile {0} vor putea fi folosite din nou de către {1}, {2}."
+	},
+	"SUCCESS_GAME_UNRESTRICTED": {
+		"en": "{1} will be able to play {0} game from now on, {2}.",
+		"ro": "{1} va putea participa din nou la {0}, {2}."
+	},
+	"SUCCESS_GAMES_UNRESTRICTED": {
+		"en": "{1} will be able to play {0} from now on, {2}.",
+		"ro": "{1} va putea participa din nou la {0}, {2}."
+	}
+}

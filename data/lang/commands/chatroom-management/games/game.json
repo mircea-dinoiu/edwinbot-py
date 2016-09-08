@@ -1,0 +1,10 @@
+{
+	"NO_GAME_RUNNING": {
+		"en": "There is no game running on this chatroom, {0}.",
+		"ro": "Niciun joc nu rulează în această cameră, {0}."
+	},
+	"GAME_RUNNING": {
+		"en": "{0} is running on this chatroom, {1}.",
+		"ro": "{0} rulează în această cameră, {1}."
+	}
+}

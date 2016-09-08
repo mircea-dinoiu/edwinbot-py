@@ -1,0 +1,10 @@
+{
+	"OWNED_MODDED": {
+		"en": "{room_name} is owned by {owner} and modded by: {mods}.",
+		"ro": "Camera {room_name} e deţinută de {owner} şi moderată de: {mods}."
+	},
+	"OWNED_NOT_MODDED": {
+		"en": "{room_name} is owned by {owner} and has no moderators.",
+		"ro": "{room_name} e deţinută de {owner} şi nu are niciun moderator."
+	}
+}

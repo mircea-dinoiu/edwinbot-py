@@ -1,0 +1,12 @@
+{
+	"PROFILE_DATA": {
+		"en": [
+		    "{url}, Age: {age}, Gender: {gender}, Location: {location}</a>",
+		    "{picture}"
+		],
+		"ro": [
+		    "{url}, Vârstă: {age}, Sex: {gender}, Locaţie: {location}</a>",
+		    "{picture}"
+        ]
+	}
+}

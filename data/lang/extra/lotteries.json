@@ -1,0 +1,51 @@
+{
+    "LEVEL_LOTTERY_START": {
+        "en": "A new level lottery session has just begun! Type {command} to register to this lottery and get a chance to win a level upgrade.",
+        "ro": "O nouă sesiune pentru loteria de levele tocmai a început! Scrie {command} pentru a te înscrie la această loterie şi vei avea şansa să câştigi o mărire de level."
+    },
+    "COINS_LOTTERY_START": {
+        "en": "A coins lottery session has just begun! Type {command} to register to this lottery and get a chance to win lots of coins. The price for a ticket is {ticket_price}.",
+        "ro": "O nouă sesiune pentru loteria de monede tocmai a început! Scrie {command} pentru a te înscrie la această loterie şi vei avea şansa să câştigi o mulţime de monede. Preţul pentru un bilet este de {ticket_price}."
+    },
+
+    "LEVEL_LOTTERY_WINNER": {
+        "en": "The level lottery session has ended. {winner} has won a level upgrade [~] . Congratulations!",
+        "ro": "Sesiunea pentru loteria de levele s-a încheiat. {winner} a câştigat o mărire de level  [~] . Felicitări!"
+    },
+    "PM_LEVEL_LOTTERY_WINNER": {
+        "en": "You have won a level upgrade after the last level lottery session. Thanks for participating!",
+        "ro": "Ai câştigat o mărire de level după ultima sesiune pentru loteria de levele. Mulţumim pentru participare!"
+    },
+
+    "COINS_LOTTERY_WINNER": {
+        "en": "The coins lottery session has ended. {winner} won {coins} (~) . Congratulations!",
+        "ro": "Sesiunea pentru loteria de monede s-a încheiat. {winner} a câştigat {coins} (~) . Felicitări!"
+    },
+    "PM_COINS_LOTTERY_WINNER": {
+        "en": "You have won {coins} after the last coins lottery session. Thanks for participating!",
+        "ro": "Ai câştigat {coins} după ultima sesiune pentru loteria de monede. Mulţumim pentru participare!"
+    },
+
+    "LOTTERY_REGISTERED_USERS": {
+        "en": "Registered users ({count}): {users}.",
+        "ro": "Utilizatori înscrişi ({count}): {users}."
+    },
+
+    "LEVEL_LOTTERY_REMAINING": {
+        "en": "The current level lottery session is ending in {remaining}. Type {command} to register to this lottery and get a chance to win a level upgrade.",
+        "ro": "Sesiunea curentă pentru loteria de levele se termină în {remaining}. Scrie {command} pentru a te înscrie la această loterie şi vei avea şansa să câştigi o mărire de level."
+    },
+    "LEVEL_LOTTERY_NEEDED_USERS": {
+        "en": "The current level lottery session is ending cannot end until the number of registered users is reaching {needed_users}. Type {command} to register to this lottery and get a chance to win a level upgrade.",
+        "ro": "Sesiunea curentă pentru loteria de levele nu se poate termina până numărul utilizatorilor înregistraţi nu ajunge la {needed_users}. Scrie {command} pentru a te înscrie la această loterie şi vei avea şansa să câştigi o mărire de level."
+    },
+
+    "COINS_LOTTERY_REMAINING": {
+        "en": "The current coins lottery session is ending in {remaining}. Type {command} to register to this lottery and get a chance to win lots of coins. The price for a ticket is {ticket_price}.",
+        "ro": "Sesiunea curentă pentru loteria de monede se termină în {remaining}. Scrie {command} pentru a te înscrie la această loterie şi vei avea şansa să câştigi o mulţime de monede. Preţul pentru un bilet este de {ticket_price}."
+    },
+    "COINS_LOTTERY_NEEDED_USERS": {
+        "en": "The current coins lottery session is ending cannot end until the number of registered users is reaching {needed_users}. Type {command} to register to this lottery and get a chance to win lots of coins. The price for a ticket is {ticket_price}.",
+        "ro": "Sesiunea curentă pentru loteria de monede nu se poate termina până numărul utilizatorilor înregistraţi nu ajunge la {needed_users}. Scrie {command} pentru a te înscrie la această loterie şi vei avea şansa să câştigi o mulţime de monede. Preţul pentru un bilet este de {ticket_price}."
+    }
+}

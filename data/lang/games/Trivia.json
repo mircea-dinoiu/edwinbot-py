@@ -1,0 +1,22 @@
+{
+	"TRIVIA_GAME": {
+		"en": "Trivia",
+		"ro": "Trivia"
+	},
+	"TRIVIA_QUESTION": {
+		"en": "Question: {question} (Reward: {reward})",
+		"ro": "Întrebare: {question} (Câştig: {reward})"
+	},
+	"TRIVIA_HINT": {
+		"en": "Hint: {hint}",
+		"ro": "Indiciu: {hint}"
+	},
+	"TRIVIA_ANSWER_FOUND": {
+		"en": "{username} has won {reward}! The answer was {answer}.",
+		"ro": "{username} a câştigat {reward}! Răspunsul era {answer}."
+	},
+	"TRIVIA_ANSWER_NOT_FOUND": {
+		"en": "The answer was: {answer}.",
+		"ro": "Răspunsul era: {answer}."
+	}
+}

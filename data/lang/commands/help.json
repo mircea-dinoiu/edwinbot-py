@@ -1,0 +1,27 @@
+{
+	"SUCCESS_WHITE_LIST": {
+		"en": "You have been whitelisted, {username}.",
+		"ro": "Te-ai înregistrat cu succes, {username}."
+	},
+
+	"BOT_HELP": {
+		"en": [
+			"",
+			"",
+			"       Help/command list: {link}",
+			"       Command prefixes: {cmd_prefixes}",
+			"       Reach the command list easier by typing: {cmds}",
+			"       To learn how to use a certain command use: {man}",
+			""
+		],
+		"ro": [
+			"",
+			"",
+			"       Ajutor/listă de comezi: {link}",
+			"       Prefixe comenzi: {cmd_prefixes}",
+			"       Vezi lista de comenzi mai uşor tastând: {cmds}",
+			"       Pentru a afla cum se foloseşte o comandă anume, foloseşte: {man}",
+			""
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"PREMIUM_HAD": {
+		"en": "{0} had premium features and expired {1} ago.",
+		"ro": "{0} a avut facilităţi premium care au expirat acum {1}."
+	},
+	"PREMIUM_HAS": {
+		"en": "{0} can use premium features for more {1}.",
+		"ro": "{0} are facilităţi premium încă {1}."
+	},
+	"PREMIUM_NEVER": {
+		"en": "{0} never had premium features.",
+		"ro": "{0} nu a avut facilităţi premium niciodată."
+	}
+}

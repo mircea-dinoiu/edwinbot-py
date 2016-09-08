@@ -1,0 +1,38 @@
+{
+	"LEMON": {
+		"en": "LEMON",
+		"ro": "LĂMÂIE"
+	},
+	"PEAR": {
+		"en": "PEAR",
+		"ro": "PARĂ"
+	},
+	"APPLE": {
+		"en": "APPLE",
+		"ro": "MĂR"
+	},
+	"ORANGE": {
+		"en": "ORANGE",
+		"ro": "PORTOCALĂ"
+	},
+	"CHERRY": {
+		"en": "CHERRY",
+		"ro": "CIREAŞĂ"
+	},
+	"PRUNE": {
+		"en": "PRUNE",
+		"ro": "PRUNĂ"
+	},
+	"STRAWBERRY": {
+		"en": "STRAWBERRY",
+		"ro": "CĂPŞUNĂ"
+	},
+	"GRAPE": {
+		"en": "GRAPE",
+		"ro": "STRUGURE"
+	},
+	"BANANA": {
+		"en": "BANANA",
+		"ro": "BANANĂ"
+	}
+}

@@ -1,0 +1,70 @@
+{
+    "ERROR_HIGHER_LEVEL_NEEDED": {
+        "en": "You have to specify a level higher than your current level, {me}.",
+        "ro": "Trebuie să specifici un level mai mare decât levelul tău actual, {me}."
+    },
+    "ERROR_COINS_NOT_ENOUGH_TO_BUY_LEVEL": {
+		"en": "You need more {coins} to buy level {level}, {me}.",
+		"ro": "Ai nevoie de încă {coins} pentru a putea cumpăra level {level}, {me}."
+	},
+	"SUCCESS_LEVEL_UPGRADED": {
+		"en": "You have been promoted to level {level}, {me}.",
+		"ro": "Ai crescut la level {level}, {me}."
+	},
+
+    "ERROR_COINS_NOT_ENOUGH_TO_BUY_LOTTERY_TICKET": {
+        "en": "You need {coins} to buy a lottery ticket for this session, {me}.",
+        "ro": "Ai nevoie de {coins} pentru a putea cumpăra un bilet de loterie pentru sesiunea curentă, {me}."
+    },
+
+    "ERROR_TOO_MANY_TICKETS": {
+        "en": "You can not buy more than {max} tickets for this session, {me}.",
+        "ro": "Nu poţi cumpăra mai mult de {max} bilete pentru această sesiune, {me}."
+    },
+
+    "SUCCESS_BOUGHT_LEVEL_LOTTERY_TICKET_REMAINING": {
+        "en": "You have bought a level lottery ticket, {me}. Session ends in {remaining}.",
+        "ro": "Ai cumpărat un bilet pentru loteria de levele, {me}. Sesiunea se încheie în {remaining}."
+    },
+    "SUCCESS_BOUGHT_LEVEL_LOTTERY_TICKET_REMAINING_TICKETS": {
+        "en": "You have bought a level lottery ticket, {me}. You have bought {tickets} tickets for this session. Session ends in {remaining}.",
+        "ro": "Ai cumpărat un bilet pentru loteria de levele, {me}. Ai cumpărat {tickets} bilete pentru această sesiune. Sesiunea se încheie în {remaining}."
+    },
+
+    "SUCCESS_BOUGHT_LEVEL_LOTTERY_TICKET_NEEDED_USERS": {
+        "en": "You have bought a level lottery ticket, {me}. Session ends when there are {needed_users} registered users.",
+        "ro": "Ai cumpărat un bilet pentru loteria de levele, {me}. Sesiunea se încheie când numărul utilizatorilor înscrişi ajunge la {needed_users}."
+    },
+    "SUCCESS_BOUGHT_LEVEL_LOTTERY_TICKET_NEEDED_USERS_TICKETS": {
+        "en": "You have bought a level lottery ticket, {me}. You have bought {tickets} tickets for this session. Session ends when there are {needed_users} registered users.",
+        "ro": "Ai cumpărat un bilet pentru loteria de levele, {me}. Ai cumpărat {tickets} bilete pentru această sesiune. Sesiunea se încheie când numărul utilizatorilor înscrişi ajunge la {needed_users}."
+    },
+
+    "SUCCESS_BOUGHT_LEVEL_LOTTERY_SESSION_ENDS": {
+        "en": "You have bought a level lottery ticket, {me}. Session is ending now.",
+        "ro": "Ai cumpărat un bilet pentru loteria de levele, {me}. Sesiunea s-a încheiat."
+    },
+
+    "SUCCESS_BOUGHT_COINS_LOTTERY_TICKET_REMAINING": {
+        "en": "You have bought a coins lottery ticket, {me}. Session ends in {remaining}.",
+        "ro": "Ai cumpărat un bilet pentru loteria de monede, {me}. Sesiunea se încheie în {remaining}."
+    },
+    "SUCCESS_BOUGHT_COINS_LOTTERY_TICKET_REMAINING_TICKETS": {
+        "en": "You have bought a coins lottery ticket, {me}. You have bought {tickets} tickets for this session. Session ends in {remaining}.",
+        "ro": "Ai cumpărat un bilet pentru loteria de monede, {me}. Ai cumpărat {tickets} bilete pentru această sesiune. Sesiunea se încheie în {remaining}."
+    },
+
+    "SUCCESS_BOUGHT_COINS_LOTTERY_TICKET_NEEDED_USERS": {
+        "en": "You have bought a coins lottery ticket, {me}. Session ends when there are {needed_users} registered users.",
+        "ro": "Ai cumpărat un bilet pentru loteria de monede, {me}. Sesiunea se încheie când numărul utilizatorilor înscrişi ajunge la {needed_users}."
+    },
+    "SUCCESS_BOUGHT_COINS_LOTTERY_TICKET_NEEDED_USERS_TICKETS": {
+        "en": "You have bought a coins lottery ticket, {me}. You have bought {tickets} tickets for this session. Session ends when there are {needed_users} registered users.",
+        "ro": "Ai cumpărat un bilet pentru loteria de monede, {me}. Ai cumpărat {tickets} bilete pentru această sesiune. Sesiunea se încheie când numărul utilizatorilor înscrişi ajunge la {needed_users}."
+    },
+
+    "SUCCESS_BOUGHT_COINS_LOTTERY_SESSION_ENDS": {
+        "en": "You have bought a coins lottery ticket, {me}. Session is ending now.",
+        "ro": "Ai cumpărat un bilet pentru loteria de monede, {me}. Sesiunea s-a încheiat."
+    }
+}

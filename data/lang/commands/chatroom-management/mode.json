@@ -1,0 +1,10 @@
+{
+	"ERROR_NO_MODE_SPECIFIED": {
+		"en": "You didn't specified any mode, {0}.",
+		"ro": "Nu ai specificat niciun mod, {0}."
+	},
+	"ERROR_MODE_NEEDS_PREMIUM": {
+		"en": "For this command, {0} needs premium features, {1}.",
+		"ro": "Pentru această comandă, {0} are nevoie de facilităţi premium, {1}."
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "ERROR_USER_NOT_BANNED": {
+        "en": "{username} is not banned, {me}.",
+        "ro": "{username} nu există pe lista utilizatorilor banaţi, {me}."
+    },
+    "ERROR_USER_NOT_BANNED_FULL": {
+        "en": "{username} is not banned on {room_name}, {me}.",
+        "ro": "{username} nu se află printre utilizatorii banaţi pe {room_name}, {me}."
+    },
+
+    "SUCCESS_USER_UNBANNED": {
+        "en": "{username} was removed from the ban list, {me}.",
+        "ro": "Am eliminat {username} din lista utilizatorilor banaţi, {me}."
+    },
+    "SUCCESS_USER_UNBANNED?FULL": {
+        "en": "{username} was removed from the ban list on {room_name}, {me}.",
+        "ro": "Am eliminat {username} din lista utilizatorilor banaţi de pe {room_name}, {me}."
+    }
+}

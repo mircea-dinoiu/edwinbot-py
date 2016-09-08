@@ -1,0 +1,14 @@
+{
+	"ERROR_EV": {
+		"en": "An error occured while trying to evaluate/execute the expression/statement you have specified, {username}.",
+		"ro": "Evaluarea/execuţia expresiei/instrucţiunii a eşuat, {username}."
+	},
+	"SUCCESS_EV_EXPRESSION": {
+		"en": "The expression was successfully evaluated, {username}.",
+		"ro": "Expresia a fost evalută cu succes, {username}."
+	},
+	"SUCCESS_EV_STATEMENT": {
+		"en": "The statement was successfully executed, {username}.",
+		"ro": "Execuţia instrucţiunii s-a terminat cu succes, {username}."
+	}
+}

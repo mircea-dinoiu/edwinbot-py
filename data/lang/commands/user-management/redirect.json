@@ -1,0 +1,11 @@
+{
+    "ERROR_REDIRECT_SAME_ROOM": {
+	    "en": "Why would you do a redundant redirect, {username}?",
+	    "ro": "De ce ai face o redirecţionare redundantă, {username}?"
+	},
+
+	"SUCCESS_REDIRECT": {
+		"en": "All your messages and my responses to them from this chatroom will be redirected to {room_name}, {username}.",
+		"ro": "Toate mesajele tale şi răspunsurile mele la ele din această cameră de chat vor fi redirecţionate către {room_name}, {username}."
+	}
+}

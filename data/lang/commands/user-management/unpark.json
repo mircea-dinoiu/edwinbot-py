@@ -1,0 +1,10 @@
+{
+    "ERROR_NOT_PARKED": {
+        "en": "Your account is not parked, {me}.",
+        "ro": "Contul tău nu este parcat, {me}."
+    },
+    "SUCCESS_UNPARK": {
+        "en": "Your account is ready to be used again, {me}.",
+        "ro": "Contul tău poate fi din nou folosit, {me}."
+    }
+}

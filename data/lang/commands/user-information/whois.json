@@ -1,0 +1,6 @@
+{
+	"WHOIS": {
+	    "en": "Possible accounts for {username}: {whois_list}.",
+        "ro": "Rezultatele căutării pentru {username}: {whois_list}."
+	}
+}

@@ -1,0 +1,88 @@
+{
+	"YES": {
+		"en": "Yes",
+		"ro": "Da"
+	},
+	"NO": {
+		"en": "No",
+		"ro": "Nu"
+	},
+
+	"COMMAND": {
+		"en": "command",
+		"ro": "comandă"
+	},
+
+    "COMMANDS": {
+		"en": "commands",
+		"ro": "comenzi"
+	},
+
+    "COIN": {
+        "en": "coin",
+        "ro": "monedă"
+    },
+	"COINS": {
+		"en": "coins",
+		"ro": "monede"
+	},
+
+    "YEAR": {
+        "en": "year",
+        "ro": "an"
+    },
+    "YEARS": {
+        "en": "years",
+        "ro": "ani"
+    },
+
+    "MONTH": {
+        "en": "month",
+        "ro": "lună"
+    },
+    "MONTHS": {
+        "en": "months",
+        "ro": "luni"
+    },
+
+    "DAY": {
+        "en": "day",
+        "ro": "zi"
+    },
+    "DAYS": {
+        "en": "days",
+        "ro": "zile"
+    },
+
+    "HOUR": {
+        "en": "hour",
+        "ro": "oră"
+    },
+    "HOURS": {
+        "en": "hours",
+        "ro": "ore"
+    },
+
+    "MINUTE": {
+        "en": "minute",
+        "ro": "minut"
+    },
+    "MINUTES": {
+        "en": "minutes",
+        "ro": "minute"
+    },
+
+    "SECOND": {
+        "en": "second",
+        "ro": "secundă"
+    },
+    "SECONDS": {
+        "en": "seconds",
+        "ro": "secunde"
+    },
+
+	"ONLINE_ON_ROOM": {
+		"en": "online now on {room_name}",
+		"ro": "online acum pe {room_name}"
+	}
+}

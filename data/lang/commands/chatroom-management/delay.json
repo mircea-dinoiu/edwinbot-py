@@ -1,0 +1,14 @@
+{
+    "ERROR_DELAY_CANNOT_BE_SET": {
+        "en": "The delay cannot be set right now, {me}. Please try later.",
+        "ro": "Întârzierea mesajelor consecutive nu poate fi setată în momentul de faţă, {me}. Te rugăm să încerci mai târziu."
+    },
+    "SUCCESS_DELAY_SET": {
+        "en": "Delay set to {seconds}, {me}.",
+        "ro": "Întârzierea mesajelor consecutive a fost setată la {delay}, {me}."
+    },
+    "GLOBAL_DELAY_SET": {
+        "en": "Delay set to {seconds}.",
+        "ro": "Întârzierea mesajelor consecutive a fost setată la {delay}."
+    }
+}

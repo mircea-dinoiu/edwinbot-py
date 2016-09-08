@@ -1,0 +1,18 @@
+{
+	"SCRAMBLE_GAME": {
+		"en": "Scramble",
+		"ro": "Scramble"
+	},
+	"SCRAMBLE_USER_REWARDED": {
+		"en": "{username} found {answer} and won {reward}.",
+		"ro": "{username} a descoperit cuvântul {answer} şi a câştigat {reward}."
+	},
+	"SCRAMBLE_REARRANGE_LETTERS": {
+		"en": "Rearrange the letters in the middle to find the word: {letters}. (Reward: {reward})",
+		"ro": "Rearanjaţi literele din mijloc pentru găsi cuvântul: {letters}. (Câştig: {reward})"
+	},
+	"SCRAMBLE_HINT": {
+		"en": "Hint: {hint} (Reward: {reward})",
+		"ro": "Indiciu: {hint} (Câştig: {reward})"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"ERROR_UNLISTEN_NOT_LISTENING": {
+	    "en": "You're not listening to {listened}, {username}.",
+	    "ro": "Nu urmăreşti expresia {listened}, {username}."
+	},
+	"SUCCESS_UNLISTEN_LISTEN_REMOVED": {
+	    "en": "You will not receive anymore private messages when {listened} appears in a chatroom message, {username}.",
+	    "ro": "Nu vei mai primi mesaje private când {listened} apare într-un mesaj pe cameră de chat, {username}."
+	}
+}

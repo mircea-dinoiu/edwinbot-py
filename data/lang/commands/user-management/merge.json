@@ -1,0 +1,15 @@
+{
+	"ERROR_CANNOT_MERGE_INTO_UID": {
+	    "en": "{0}, the last username has to be {1} or {2}.",
+	    "ro": "{0}, ultimul nume de utilizator trebuie să fie {1} sau {2}."
+	},
+	"ERROR_CANNOT_MERGE_SAME_USERS": {
+	    "en": "Users have to be different, {username}.",
+	    "ro": "Utilizatorii trebuie să fie diferiţi, {username}."
+	},
+
+	"SUCCESS_USERS_MERGED": {
+        "en": "{0} and {1} were merged into {2}, {3}.",
+        "ro": "{0} şi {1} au fost contopiţi în {2}, {3}."
+	}
+}

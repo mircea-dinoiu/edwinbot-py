@@ -1,0 +1,30 @@
+{
+	"ROOM_INFO": {
+		"en": [
+			"",
+			"",
+			"       Room: {room_name}"
+		],
+		"ro": [
+			"",
+			"", 
+			"       Cameră: {room_name}"
+		]
+	},
+    "ROOM_INFO_DELAY": {
+        "en": "       Delay between consecutive messages: {delay}",
+        "ro": "       Întârzierea mesajelor consecutive: {delay}"
+    },
+    "ROOM_INFO_FLAGS": {
+        "en": "       Flags: [Blacklisted: {blacklisted}], [Sleep: {sleep}]",
+        "ro": "       Setări: [Interzisă: {blacklisted}], [Suspendată: {sleep}]"
+    },
+    "ROOM_INFO_INITIATOR": {
+        "en": "       Initiator: {initiator}",
+        "ro": "       Iniţiator: {initiator}"
+    },
+    "ROOM_INFO_LANGUAGE": {
+        "en": "       Language: {language}",
+        "ro": "       Limbă: {language}"
+    }
+}

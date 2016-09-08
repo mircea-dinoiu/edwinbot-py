@@ -1,0 +1,10 @@
+{
+	"BLACKROOMS": {
+		"en": "Rooms I'm not allowed _shhh in are: {0}.",
+		"ro": "Lista de camere interzise _shhh : {0}."
+	},
+	"BLACKROOMS_EMPTY": {
+		"en": "I can be anywhere, {0}.",
+		"ro": "Nicio cameră interzisă, {0}."
+	}
+}

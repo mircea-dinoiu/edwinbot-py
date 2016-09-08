@@ -1,0 +1,24 @@
+{
+	"BOT_INFO": {
+		"en": [
+			"",
+			"",
+			"       Commands: {0}", 
+			"       Rooms stored: {1}", 
+			"       Users stored: {2}", 
+			"       Definitions stored: {3}", 
+			"       Running version: {4}", 
+			""
+		],
+		"ro": [
+			"", 
+			"", 
+			"       Comenzi: {0}", 
+			"       Camere stocate: {1}", 
+			"       Utilizatori stocaţi: {2}", 
+			"       Definiţii existente: {3}", 
+			"       Versiune curentă: {4}", 
+			""
+		]
+	}
+}

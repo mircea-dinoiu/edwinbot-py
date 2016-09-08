@@ -1,0 +1,14 @@
+{
+	"ERROR_NO_GAME_SPECIFIED": {
+		"en": "You didn't specified any game, {0}.",
+		"ro": "Nu ai specificat niciun joc, {0}."
+	},
+	"ERROR_GAME_IN_PROGRESS": {
+		"en": "You can't start another game, {1}. An instance of {0} is already running on this chatroom.",
+		"ro": "Nu poţi porni alt joc, {1}. {0} rulează deja în această cameră."
+	},
+	"ERROR_GAME_INEXISTENT": {
+		"en": "{0} doesn't seem to be recognized as a working game, {1}.",
+		"ro": "Se pare că {0} nu este un joc, {1}."
+	}
+}

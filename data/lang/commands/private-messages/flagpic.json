@@ -1,0 +1,10 @@
+{
+    "SUCCESS_USERS_PICTURE_FLAGGED": {
+        "en": "{me}, I flagged the pictures for the following users: {users}.",
+        "ro": "{me}, am raportat pozele următorilor utilizatori: {users}."
+    },
+    "ERROR_USERS_PICTURE_NOT_FLAGGED": {
+        "en": "{me}, there was an error while trying to flag the picture of these users: {users}.",
+        "ro": "{me}, a intervenit o eroare în timp ce încercam să raportez pozele următorilor utilizatori: {users}."
+    }
+}

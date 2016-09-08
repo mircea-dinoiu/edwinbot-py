@@ -1,0 +1,14 @@
+{
+	"SUCCESS_PM_MESSAGE_SENT": {
+	    "en": "{me}, the message was sent to: {destination}.",
+	    "ro": "{me}, mesajul a fost trimis către: {destination}."
+	},
+	"PM_MESSAGE_FROM": {
+	    "en": "You have received a message from {username}: {message}",
+	    "ro": "Ai primit un mesaj de la {username}: {message}"
+	},
+	"PM_MESSAGE_FROM_ROOM": {
+	    "en": "You have received a message from {username} ({room_name}): {message}",
+	    "ro": "Ai primit un mesaj de la {username} ({room_name}): {message}"
+	}
+}

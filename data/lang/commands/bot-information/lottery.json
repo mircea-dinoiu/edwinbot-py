@@ -1,0 +1,44 @@
+{
+	"LOTTERY_INFO": {
+		"en": [
+			"",
+			"",
+            "       {head}",
+            "",
+			"       Session started: {time_passed} ago",
+            "       Session duration: {duration}"
+		],
+		"ro": [
+			"",
+			"",
+            "       {head}",
+            "",
+			"       Sesiunea a început: acum {time_passed}",
+            "       Sesiunea durează: {duration}"
+		]
+	},
+    "LOTTERY_INFO_HEAD_LEVEL": {
+        "en": "LEVEL LOTTERY",
+        "ro": "LOTERIA DE LEVELE"
+    },
+    "LOTTERY_INFO_HEAD_COINS": {
+        "en": "COINS LOTTERY",
+        "ro": "LOTERIA DE MONEDE"
+    },
+    "LOTTERY_INFO_TICKET_PRICE": {
+        "en": "       Ticket price: {ticket_price}",
+		"ro": "       Preţul unui bilet: {ticket_price}"
+    },
+    "LOTTERY_INFO_SESSION_END_REMAINING": {
+        "en": "       Session ends in: {remaining}",
+        "ro": "       Sesiunea se termină în: {remaining}"
+    },
+    "LOTTERY_INFO_SESSION_END_NEEDED_USERS": {
+        "en": "       Session ends when the number of registered users reaches {needed_users}",
+        "ro": "       Sesiunea se termină când numărul utilizatorilor înscrişi ajunge la {needed_users}"
+    },
+    "LOTTERY_INFO_REGISTERED_USERS": {
+        "en": "       Users registered ({count}): {users}",
+        "ro": "       Utilizatori înscrişi ({count}): {users}"
+    }
+}

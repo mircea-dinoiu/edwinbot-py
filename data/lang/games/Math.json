@@ -1,0 +1,14 @@
+{
+	"MATH_GAME": {
+		"en": "Mathematics",
+		"ro": "Matematică"
+	},
+	"MATH_SOLVE_THE_EXPRESSION": {
+		"en": "What's the result of expression: {expression}? (Reward: {reward})",
+		"ro": "Care e rezultatul expresiei: {expression}? (Câştig: {reward})"
+	},
+	"MATH_USER_REWARDED": {
+		"en": "{username} has answered with {answer} and won {reward}.",
+		"ro": "{username} a răspuns cu {answer} şi a câştigat {reward}."
+	}
+}

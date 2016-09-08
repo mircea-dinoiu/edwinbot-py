@@ -1,0 +1,167 @@
+{
+    "ERROR_NOT_WHITELISTED": {
+        "en": "You are not whitelisted, {me}. Type {command} to get access.",
+        "ro": "Nu eşti înregistrat, {me}. Tastează {command} pentru a primi acces."
+    },
+
+    "ERROR_PM_NOT_CONNECTED": {
+        "en": "I'm not connected on PM, {me}.",
+        "ro": "Nu sunt conectat în PM, {me}."
+    },
+
+	"ERROR_INVALID_COMMAND_USAGE": {
+		"en": "Invalid usage of the command {0}, {1}. Type {2} to learn how to use this command.",
+		"ro": "Nu ştii să foloseşti comanda {0}, {1}. Tastează {2} pentru a afla cum se foloseşte această comandă."
+	},
+
+    "ERROR_ACCOUNT_PARKED": {
+        "en": "Your account is in parked, {me}. Type {command} to unpark your account.",
+        "ro": "Contul tău este parcat, {me}. Tastează {command} pentru a ieşi din acest mod."
+    },
+
+	"ERROR_NOT_FOUND": {
+		"en": "I didn't find anything for: {0}.",
+		"ro": "Nu am găsit nimic pentru: {0}."
+	},
+	"ERROR_USER_NOT_FOUND": {
+		"en": "I didn't find any user named {0}.",
+		"ro": "Nu am găsit niciun utilizator numit {0}."
+	},
+	"ERROR_CH_USER_NOT_FOUND": {
+		"en": "It didn't work. Maybe {0} doesn't exist or it is a chatroom.",
+		"ro": "A intervenit o problemă. Probabil {0} nu există sau este o cameră de chat."
+	},
+	"ERROR_NOT_CONNECTED": {
+		"en": "I'm not connected to {room_name}, {username}.",
+		"ro": "Nu sunt online pe {room_name}, {username}."
+	},
+	"ERROR_ROOM_NOT_IN_DB": {
+		"en": "{0} doesn't seem to be stored in database, {1}.",
+		"ro": "Nu am găsit {0} în baza de date, {1}."
+	},
+	"ERROR_USER_NOT_IN_DB": {
+		"en": "No user named {0} was found in database, {1}.",
+		"ro": "Utilizatorul {0} nu există în baza de date, {1}."
+	},
+	"ERROR_NO_USER_SPECIFIED": {
+		"en": "You didn't specified any user, {0}.",
+		"ro": "Nu ai specificat niciun utilizator, {0}."
+	},
+
+	"ERROR_LEVEL_AT_LEAST": {
+		"en": "This command requires at least level {0}, {1}.",
+		"ro": "Pentru această comandă trebuie să ai cel puţin level {0}, {1}."
+	},
+	"ERROR_LEVEL_AT_LEAST_OR_MODERATOR": {
+		"en": "This command requires at least level {0} or moderator access, {1}.",
+		"ro": "Pentru această comandă trebuie să ai cel puţin level {0} sau drepturi de moderare, {1}."
+	},
+	"ERROR_ADMIN_ONLY": {
+		"en": "This command requires admin rights, {0}.",
+		"ro": "Această comandă necesită drepturi de administrare, {0}."
+	},
+	"ERROR_BOTH_MODDED": {
+		"en": "This command requires moderator access from both you and {0}, {1}.",
+		"ro": "Pentru această comandă, tu şi {0} aveţi nevoie de drepturi de moderare, {1}."
+	},
+    "ERROR_USER_IS_MODERATOR": {
+        "en": "{username} has moderator access, {me}.",
+        "ro": "{username} has moderator access, {me}."
+    },
+    "ERROR_USER_IS_MODERATOR_FULL": {
+        "en": "{username} has moderator access on {room_name}, {me}.",
+        "ro": "{username} has moderator access on {room_name}, {me}."
+    },
+	"ERROR_NO_ACCESS": {
+		"en": "Wanna do dirty things, {0}?",
+		"ro": "Ce-ai de gând, {0}?"
+	},
+	"ERROR_COMMAND_TIME_LIMIT": {
+		"en": "You have to wait {0} seconds after each use of this command, {1}. I suggest you to use PM to avoid this restriction.",
+		"ro": "Trebuie să aştepţi {0} secunde după fiecare folosire a acestei comenzi, {1}. Îţi sugerez să foloseşti PM pentru a evita această restricţie."
+	},
+
+	"ERROR_NEGATIVE_NUMBER": {
+		"en": "Give a positive number, {me}.",
+		"ro": "Doar numere pozitive, {me}."
+	},
+	"ERROR_INVALID_LEVEL": {
+		"en": "{level} is not a valid level, {me}.",
+		"ro": "{level} nu e un level valid, {me}."
+	},
+	"ERROR_INVALID_COINS": {
+		"en": "Bet some valid coins, {0}.",
+		"ro": "Pariază cu un număr corect, {0}."
+	},
+	"ERROR_INVALID_NUMBER": {
+		"en": "{number} is not a valid number, {me}.",
+		"ro": "{number} nu e un număr valid, {me}."
+	},
+
+	"ERROR_ALREADY_ONLINE": {
+		"en": "I'm already online on {room_name}, {username}.",
+		"ro": "Sunt deja online pe {room_name}, {username}."
+	},
+	"ERROR_ROOM_BLACKLISTED": {
+		"en": "That room is blacklisted, {0}.",
+		"ro": "Această cameră de chat este interzisă, {0}."
+	},
+	"ERROR_CONNECTING": {
+		"en": "Could not connect to {room_name}, {username}.",
+		"ro": "Conectarea la {room_name} a eşuat, {username}."
+	},
+	"ERROR_DEFAULT_ROOM": {
+		"en": "This command is not available for default chatrooms, {0}.",
+		"ro": "Această comandă nu poate fi folosită pentru camerele de chat implicite, {0}."
+	},
+	"ERROR_NOT_THE_ROOM_INITIATOR": {
+		"en": "You're not the one who called me in, {0}.",
+		"ro": "Nu tu m-ai chemat, {0}."
+	},
+	"ERROR_NOT_ONLINE": {
+		"en": "I'm not online on {room_name}, {me}.",
+		"ro": "Nu sunt online pe {room_name}, {me}."
+	},
+	"ERROR_USER_NOT_ONLINE": {
+        "en": "{username} is not online on {room_name}, {me}.",
+        "ro": "{username} nu e online pe {room_name}, {me}."
+	},
+
+	"ERROR_LOADING_GAME_USERS_NOT_ENOUGH": {
+		"en": "Game couldn't start because there are not enough users on this chatroom.",
+		"ro": "Jocul nu a putut porni din cauza numărului de utilizatori prea mic în această cameră de chat."
+	},
+	"ERROR_LOADING_GAME_LANG_NOT_MATCH": {
+		"en": "Game couldn't start because the current room's language is not supported.",
+		"ro": "Jocul nu a putut porni din cauza unor nepotriviri lingvistice."
+	},
+
+	"ERROR_COMMAND_NOT_AVAILABLE_IN_PM": {
+	    "en": "This command is not available in PM.",
+	    "ro": "Această comandă nu e disponibilă în PM."
+	},
+	"ERROR_COMMAND_NOT_AVAILABLE_IN_CHATROOMS": {
+	    "en": "This command is available only in PM, {me}.",
+	    "ro": "Această comandă e disponibilă doar în PM, {me}."
+	},
+
+	"ERROR_INVALID_USERNAME": {
+	    "en": "{username} is not a valid username, {me}.",
+	    "ro": "{username} nu e un nume de utilizator valid, {me}."
+	},
+
+    "ERROR_INVALID_USERNAMES": {
+	    "en": "{me}, the following usernames are not valid: {usernames}.",
+	    "ro": "{me}, următoarele nume de utilizator sunt invalide: {usernames}."
+	},
+
+	"ERROR_INVALID_ROOM_NAME": {
+	    "en": "{room_name} is not a valid room name, {me}.",
+	    "ro": "{room_name} nu e un nume valid pentru o cameră de chat, {me}."
+	},
+
+    "ERROR_LOTTERY_SESSION_NOT_RUNNING": {
+        "en": "There's no session running for this lottery, {me}.",
+        "ro": "Nicio sesiune nu rulează pentru această loterie, {me}."
+    }
+}

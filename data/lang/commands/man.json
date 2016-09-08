@@ -1,0 +1,30 @@
+{	
+	"MAN_CATEGORY": {
+		"en": "       <b>Category</b>: {category}",
+		"ro": "       <b>Categorie</b>: {category}"
+	},
+    "MAN_COMMAND": {
+        "en": "       <b>Command</b>: {command}",
+        "ro": "       <b>Comandă</b>: {command}"
+    },
+    "MAN_ALIASES": {
+        "en": "       <b>Aliases</b>: {aliases}",
+        "ro": "       <b>Aliasuri</b>: {aliases}"
+    },
+    "MAN_REQUIREMENTS": {
+        "en": "       <b>Requirements</b>: {requirements}",
+        "ro": "       <b>Necesită</b>: {requirements}"
+    },
+    "MAN_DESCRIPTION": {
+        "en": "       <b>Description:</b>{description}",
+        "ro": "       <b>Descriere:</b>{description}"
+    },
+	"MAN_REQUIRES_USER_MODERATOR_ACCESS": {
+		"en": "moderator rights for you",
+		"ro": "drepturi de moderare pentru tine"
+	},
+	"MAN_REQUIRES_BOT_MODERATOR_ACCESS": {
+		"en": "moderator rights for {bot_name}",
+		"ro": "drepturi de moderator pentru {bot_name}"
+	}
+}

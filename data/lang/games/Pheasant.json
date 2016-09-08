@@ -1,0 +1,50 @@
+{
+	"PHEASANT_GAME": {
+		"en": "Pheasant",
+		"ro": "Fazan"
+	},
+	"PHEASANT_STARTED_THE_GAME": {
+		"en": "{username} has started the game with {word} and won {reward}. Word that starts with {prefix}?",
+		"ro": "{username} a început jocul cu {word} şi a câştigat {reward}. Cuvânt ce începe cu {prefix}?"
+	},
+	"ERROR_PHEASANT_WORD_ALREADY_USED": {
+		"en": "{word} was already used, {me}.",
+		"ro": "{word} a fost deja folosit, {me}."
+	},
+	"ERROR_PHEASANT_WORD_TOO_SHORT": {
+		"en": "{word} is too short, {me}.",
+		"ro": "{word} e prea scurt, {me}."
+	},
+	"ERROR_PHEASANT_WORD_INCORRECT": {
+		"en": "{word} doesn't exist or it was incorrectly spelled, {me}.",
+		"ro": "{word} nu există sau e scris incorect, {me}."
+	},
+	"ERROR_PHEASANT_WORD_TYPE_END": {
+		"en": "You can't start the game with a game-closing word, {me}.",
+		"ro": "Nu poţi porni jocul cu un cuvânt de închidere, {me}."
+	},
+	"ERROR_PHEASANT_NOT_YOUR_TURN": {
+		"en": "You have to wait one round, {me}.",
+		"ro": "Ai de aşteptat o tură, {me}."
+	},
+	"PHEASANT_WAITING_FOR_A_WORD": {
+		"en": "Someone tell me a word.",
+		"ro": "Spuneţi-mi un cuvânt."
+	},
+    "PHEASANT_WAITING_FOR_A_SPECIFIC_WORD": {
+		"en": "Tell me a word that starts with {prefix}.",
+		"ro": "Spuneţi un cuvânt ce începe cu {prefix}."
+	},
+	"PHEASANT_USER_REWARDED_END": {
+		"en": "{username} has ended the game and won {reward}.",
+		"ro": "{username} a închis jocul şi a câştigat {reward}."
+	},
+	"PHEASANT_USER_REWARDED": {
+		"en": "{username} won {reward}.",
+		"ro": "{username} a câştigat {reward}."
+	},
+	"PHEASANT_NOBODY_ANSWERED": {
+		"en": "Nobody told me a word that starts with {prefix}. Let's try again.",
+		"ro": "Nimeni n-a spus un cuvânt care începe cu {prefix}. Să o luăm de la capăt."
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"ERROR_NOT_DEFINED": {
+		"en": "{0} is not defined.",
+		"ro": "{0} nu e definit."
+	},
+	"ERROR_ALREADY_DEFINED": {
+		"en": "{0} is already defined. It can be redefined just by {1}.",
+		"ro": "{0} e deja definit. Poate fi redefinit doar de către {1}."
+	}
+}

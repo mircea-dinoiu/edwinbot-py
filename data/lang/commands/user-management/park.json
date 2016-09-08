@@ -1,0 +1,18 @@
+{
+    "ERROR_PARKING_TIME_TOO_SHORT": {
+        "en": "The parking time should be at least one hour, {me}.",
+        "ro": "Contul nu poate fi parcat mai puţin de o oră, {me}."
+    },
+    "ERROR_PARKING_TIME_TOO_LONG": {
+        "en": "The parking time should be at most 30 days, {me}.",
+        "ro": "Contul nu poate fi parcat mai mult de 30 de zile, {me}."
+    },
+    "SUCCESS_ACCOUNT_PARKED": {
+        "en": "Your account is parked for {duration}, {me}. When this time passes your account will be unparked automatically. You have spent {coins} by parking your account.",
+        "ro": "Contul tău va fi parcat pentru {duration}, {me}. După ce trece acest timp, contul tău va ieşi automat din acest mod. Parcarea a costat {coins}."
+    },
+    "ERROR_COINS_NOT_ENOUGH_TO_PARK": {
+        "en": "You need {coins} to park your account, {me}.",
+        "ro": "Ai nevoie de {coins} pentru parcarea contului tău, {me}."
+    }
+}

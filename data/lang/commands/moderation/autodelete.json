@@ -1,0 +1,28 @@
+{
+    "ERROR_USER_ALREADY_EXISTS_IN_AUTO_DELETE_LIST": {
+        "en": "{user} already exists in the auto delete list, {me}.",
+        "ro": "Utilizatorul {user} există deja pe lista de ştergere automată, {me}."
+    },
+    "ERROR_USER_NOT_IN_AUTO_DELETE_LIST": {
+        "en": "{user} is not on the auto delete list, {me}.",
+        "ro": "Utilizatorul {user} nu există pe lista de ştergere automată, {me}."
+    },
+
+
+	"SUCCESS_AUTODELETE_REMOVED": {
+		"en": "{user} was removed from auto delete list, {me}.",
+		"ro": "{user} nu mai este pe lista de ştergere automată, {me}."
+	},
+	"SUCCESS_AUTODELETE_ADDED": {
+		"en": "{user} was added to auto delete list, {me}.",
+		"ro": "{user} este acum pe lista de ştergere automată, {me}."
+	},
+	"AUTO_DELETE_LIST": {
+		"en": "Auto delete list: {auto_delete}.",
+		"ro": "Lista de ştergere automată: {auto_delete}."
+	},
+	"AUTO_DELETE_LIST_EMPTY": {
+		"en": "Auto delete list is empty, {me}.",
+		"ro": "Lista de ştergere automată e goală, {me}."
+	}
+}

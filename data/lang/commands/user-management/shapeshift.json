@@ -1,0 +1,10 @@
+{	
+	"SHAPESHIFT_LEAVING": {
+		"en": "{0} is leaving {1}'s form.",
+		"ro": "{0} renunţă la forma lui {1}."
+	},
+	"SHAPESHIFTING_TO": {
+		"en": "{0} is shapeshifting into {1}.",
+		"ro": "{0} se transformă în {1}."
+	}
+}

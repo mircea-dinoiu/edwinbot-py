@@ -1,0 +1,10 @@
+{
+	"SUCCESS_GAME_HAS_BEEN_RESUMED": {
+		"en": "{0} has been resumed.",
+		"ro": "Jocul {0} este reluat."
+	},
+	"ERROR_GAME_ALREADY_RUNNING": {
+		"en": "{0} is already running on this chatroom, {1}.",
+		"ro": "{0} rulează deja în această cameră, {1}."
+	}
+}

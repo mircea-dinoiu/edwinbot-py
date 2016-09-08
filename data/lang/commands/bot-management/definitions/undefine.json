@@ -1,0 +1,10 @@
+{
+	"ERROR_UNDEFINE_NO_ACCESS": {
+		"en": "{0} is defined by someone else. It can be removed just by {1}.",
+		"ro": "{0} e definit de altcineva. Definiţia poate fi ştearsă doar de către {1}."
+	},
+	"SUCCESS_UNDEFINE": {
+	    "en": "{keyword} was undefined, {username}.",
+	    "ro": "Definiţia pentru {keyword} a fost ştearsă, {username}."
+	}
+}

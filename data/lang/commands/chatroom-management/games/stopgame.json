@@ -1,0 +1,10 @@
+{
+	"SUCCESS_GAME_HAS_BEEN_STOPPED": {
+		"en": "{0} has been stopped.",
+		"ro": "Jocul {0} a fost oprit."
+	},
+	"ERROR_NO_GAME_RUNNING": {
+		"en": "There is no game running on this chatroom, {0}.",
+		"ro": "Niciun joc nu este activ, {0}."
+	}
+}

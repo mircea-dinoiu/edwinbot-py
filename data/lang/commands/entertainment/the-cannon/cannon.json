@@ -1,0 +1,45 @@
+{
+    "CANNON_NO_AMMUNITION": {
+        "en": "You didn't load the cannon, {me}.",
+        "ro": "Nu ţi-ai încărcat tunul cu muniţie, {me}."
+    },
+    "CANNON_NO_TARGET": {
+        "en": "You didn't set a target, {me}.",
+        "ro": "Nu ai stabilit ţinta, {me}."
+    },
+
+    "CANNON_INFO": {
+        "en": [
+			"",
+			"",
+            "       {ammunition_info}",
+            "       {target_info}",
+            ""
+		],
+        "ro": [
+			"",
+			"",
+            "       {ammunition_info}",
+            "       {target_info}",
+            ""
+		]
+    },
+
+    "CANNON_INFO_AMMUNITION": {
+        "en": "Loaded ammunition: {ammunition}.",
+        "ro": "Tunul este încărcat cu: {ammunition}."
+    },
+    "CANNON_INFO_TARGET": {
+        "en": "The current target is: {target}.",
+        "ro": "Ţinta curentă e: {target}."
+    },
+
+    "CANNON_HELP_AMMUNITION": {
+        "en": "Type {command} to load your cannon with munition.",
+        "ro": "Tastează {command} pentru a încărca tunul cu muniţie."
+    },
+    "CANNON_HELP_TARGET": {
+        "en": "Type {command} set your target.",
+        "ro": "Tastează {command} pentru a stabili o ţintă."
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"IGNORED_USERS": {
+		"en": "Ignored users: {ignored_users}.",
+		"ro": "Utilizatori ignoraţi: {ignored_users}."
+	},
+	"IGNORED_USERS_EMPTY": {
+		"en": "Ignored users list is empty, {me}.",
+		"ro": "Niciun utilizator ignorat, {me}."
+	}
+}

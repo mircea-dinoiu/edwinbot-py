@@ -1,0 +1,10 @@
+{
+	"GAMES": {
+		"en": "Game list: {0}.",
+		"ro": "Lista de jocuri: {0}."
+	},
+	"NO_GAMES": {
+		"en": "There are no games, {0}.",
+		"ro": "Nu există niciun joc, {0}."
+	}
+}

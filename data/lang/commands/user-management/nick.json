@@ -1,0 +1,28 @@
+{
+    "ERROR_NICK_TOO_LONG": {
+	    "en": "The nick you have specified is too long, {username}.",
+	    "ro": "Pseudonimul specificat este prea lung, {username}."
+	},
+	"ERROR_NICK_SAME_AS_USERNAME": {
+	    "en": "You cannot use a nick similar to your username, {username}.",
+	    "ro": "Nu poţi folosi un pseudonim similar cu numele tău, {username}."
+	},
+
+	"SUCCESS_NICK_CHANGED": {
+	    "en": "You've changed your nick to {nick}, {username}.",
+	    "ro": "Ţi-ai schimbat pseudonimul în {nick}, {username}."
+	},
+	"SUCCESS_NICK_REMOVED": {
+	    "en": "Your nick has been removed, {username}.",
+	    "ro": "Pseudonimul tău a fost eliminat, {username}."
+	},
+
+	"YOUR_NICK": {
+        "en": "Your nick is {nick}, {username}.",
+        "ro": "Pseudonimul tău e {nick}, {username}."
+	},
+	"NICK_NOT_SET": {
+        "en": "You haven't set your nick yet, {username}. Use {command} {param} to set your nick.",
+        "ro": "Încă nu ţi-ai setat pseudonimul, {username}. Foloseşte {command} {param} pentru a-ţi seta pseudonimul."
+	}
+}

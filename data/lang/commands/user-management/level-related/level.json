@@ -1,0 +1,10 @@
+{	
+	"YOUR_LEVEL": {
+		"en": "Your level is {level} and you have {coins}, {me}.",
+		"ro": "Ai level {level} şi {coins}, {me}."
+	},
+	"USER_LEVEL": {
+		"en": "{username} has level {level} and {coins}.",
+		"ro": "{username} are level {level} şi {coins}."
+	}
+}

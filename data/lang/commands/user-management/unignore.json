@@ -1,0 +1,11 @@
+{
+    "ERROR_WHAT_USER_TO_UNIGNORE": {
+		"en": "Who do you want me to unignore, {0}?",
+		"ro": "Cine vrei să fie şters de pe lista de persoane ignorate, {0}?"
+	},
+
+	"SUCCESS_UNIGNORE": {
+		"en": "{0} is not ignored anymore, {1}.",
+		"ro": "{0} nu mai e pe lista persoanelor ignorate, {1}."
+	}
+}

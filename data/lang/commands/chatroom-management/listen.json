@@ -1,0 +1,22 @@
+{
+	"LISTEN_NOTIFY": {
+	    "en": "{username} ({room_name}) wrote a message that contains {listened} in it: {message}",
+	    "ro": "{username} ({room_name}) a scris un mesaj ce conţine {listened}: {message}"
+	},
+	"SUCCESS_LISTEN": {
+        "en": "You'll receive a private message everytime {listened} will appear in a chatroom message, {username}.",
+        "ro": "O să primeşti un mesaj privat de fiecare dată când {listened} apare într-un mesaj pe o cameră de chat, {username}."
+	},
+	"LISTENED_LIST_EMPTY": {
+        "en": "You are not listening to any word, {username}.",
+        "ro": "Nu ai nicio expresie urmărită, {username}."
+	},
+	"LISTENED_LIST": {
+	    "en": "{username}, you are listening to: {listened_list}.",
+	    "ro": "{username}, urmăreşti: {listened_list}."
+	},
+	"ERROR_LISTEN_ALREADY_LISTENING": {
+	    "en": "You are already listening to {listened}, {username}.",
+	    "ro": "Deja urmăreşti expresia {listened}, {username}."
+	}
+}

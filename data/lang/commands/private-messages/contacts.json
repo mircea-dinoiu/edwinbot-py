@@ -1,0 +1,14 @@
+{
+    "ERROR_CONTACT_LIST_CANNOT_BE_RETRIEVED": {
+        "en": "The contact list cannot be retrieved right now, {me}.",
+        "ro": "Lista de contacte nu poate fi obţinută în momentul acesta, {me}."
+    },
+    "PM_CONTACT_LIST_EMPTY": {
+        "en": "I haven't added yet anyone on the PM contact list, {me}.",
+        "ro": "Nu am adăugat încă pe nimeni pe lista de contacte din PM, {me}."
+    },
+    "PM_CONTACT_LIST": {
+        "en": "My contacts from PM: {contacts}.",
+        "ro": "Contactele mele din PM: {contacts}."
+    }
+}

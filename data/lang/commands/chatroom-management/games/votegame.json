@@ -1,0 +1,10 @@
+{
+	"VOTE_GAME_ENDED": {
+		"en": "The vote session has ended. {0} game will start.",
+		"ro": "Votarea s-a terminat. Jocul {0} va începe."
+	},
+	"SUCCESS_GAME_VOTED": {
+		"en": "You have voted for {0}, {1}. {2} more votes are needed to start the game.",
+		"ro": "Ai votat pentru {0}, {1}. Încă {2} voturi sunt necesare pentru a începe jocul."
+	}
+}

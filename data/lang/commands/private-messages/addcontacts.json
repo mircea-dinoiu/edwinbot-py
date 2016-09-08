@@ -1,0 +1,15 @@
+{
+    "ERROR_PM_CANNOT_ADD_CONTACTS": {
+        "en": "I can't add any contact right now, {me}.",
+        "ro": "Nu pot adăuga niciun contact în momentul acesta, {me}."
+    },
+    "ERROR_PM_CONTACTS_ALREADY_EXISTS": {
+        "en": "{me}, the following users are already in my PM contact list: {contacts}.",
+        "ro": "{me}, următorii utilizatori sunt deja printre contactele mele din PM: {contacts}."
+    },
+
+    "SUCCESS_PM_CONTACTS_ADDED": {
+        "en": "{me}, the following users were successfully added in my PM contact list: {contacts}.",
+        "ro": "{me}, următorii utilizatori au fost adăugaţi la contactele mele din PM: {contacts}."
+    }
+}

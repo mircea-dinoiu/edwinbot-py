@@ -1,0 +1,50 @@
+{
+	"USER_INFO": {
+		"en": [
+			"",
+			"",
+			"       Username: {username}"
+		],
+		"ro": [
+			"", 
+			"", 
+			"       Nume utilizator: {username}"
+		]
+	},
+    "USER_INFO_NICK": {
+        "en": "       Nick: {nick}",
+        "ro": "       Pseudonim: {nick}"
+    },
+    "USER_INFO_LEVEL_COINS": {
+        "en": [
+            "       Level: {level}",
+            "       Coins: {coins}",
+            "       Spent coins: {coins_spent}"
+        ],
+        "ro": [
+            "       Level: {level}",
+			"       Monede: {coins}",
+			"       Monede cheltuite: {coins_spent}"
+        ]
+    },
+    "USER_INFO_FLAGS": {
+        "en": [
+            "       Auto-delete: {auto_delete}",
+			"       Ignored: {ignored}",
+            "       Parked: {parked}"
+        ],
+        "ro": [
+            "       Ştergere automată: {auto_delete}",
+			"       Ignoră: {ignored}",
+            "       Parcat: {parked}"
+        ]
+    },
+    "USER_INFO_RESTRICTED_COMMANDS": {
+        "en": "       Restricted commands: {restricted_commands}",
+        "ro": "       Comenzi restricţionate: {restricted_commands}"
+    },
+    "USER_INFO_RESTRICTED_GAMES": {
+        "en": "       Restricted games: {restricted_games}",
+        "ro": "       Jocuri restricţionate: {restricted_games}"
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"SUCCESS_FLAG": {
+		"en": "{username} has been flagged.",
+		"ro": "{username} a primit flag."
+	},
+	"SUCCESS_FLAG_ROOM": {
+		"en": "{username} ({room_name}) has been flagged.",
+		"ro": "{username} ({room_name}) a primit flag."
+	}
+}

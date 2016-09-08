@@ -1,0 +1,25 @@
+{
+    "ERROR_CANNON_NO_AMMUNITION": {
+        "en": "You didn't load the cannon, {me}.",
+        "ro": "Nu ţi-ai încărcat tunul cu muniţie, {me}."
+    },
+    "ERROR_CANNON_NO_TARGET": {
+        "en": "You didn't set a target, {me}.",
+        "ro": "Nu ai stabilit ţinta, {me}."
+    },
+
+    "CANNON_FIRE": [
+        {
+            "en": "{me} shot {target} with {ammunition}!",
+            "ro": "{me} a tras în {target} cu {ammunition}!"
+        },
+        {
+            "en": "{me} threw {ammunition} at {target}!",
+            "ro": "{me} a aruncat {ammunition} către {target}!"
+        },
+        {
+            "en": "{me} attacked {target} with {ammunition}!",
+            "ro": "{me} a tras cu {ammunition} în {target}!"
+        }
+    ]
+}

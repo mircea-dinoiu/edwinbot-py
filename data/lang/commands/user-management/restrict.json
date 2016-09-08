@@ -1,0 +1,27 @@
+{
+	"ERROR_COMMAND_NOT_EXISTING": {
+		"en": "{0} is not an existing command, {1}.",
+		"ro": "Comanda {0} nu există, {1}."
+	},
+	"ERROR_COMMANDS_NOT_EXISTING": {
+		"en": "Commands {0} don't exist, {1}.",
+		"ro": "Comenzile {0} nu există, {1}."
+	},
+
+	"SUCCESS_COMMAND_RESTRICTED": {
+		"en": "Command {0} will not be available for user {1} anymore, {2}.",
+		"ro": "Comanda {0} nu va mai putea fi folosită de {1}, {2}."
+	},
+	"SUCCESS_COMMANDS_RESTRICTED": {
+		"en": "Commands {0} will not be available for user {1} anymore, {2}.",
+		"ro": "Comenzile {0} nu vor mai putea fi folosite de {1}, {2}."
+	},
+	"SUCCESS_GAME_RESTRICTED": {
+		"en": "{1} can't play {0} game anymore, {2}.",
+		"ro": "{1} nu va mai putea participa la {0} de acum, {2}."
+	},
+	"SUCCESS_GAMES_RESTRICTED": {
+		"en": "{1} can't play {0} anymore, {2}.",
+		"ro": "{1} nu va mai putea participa la {0} de acum, {2}."
+	}
+}

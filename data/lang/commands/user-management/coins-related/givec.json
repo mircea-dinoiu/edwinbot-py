@@ -1,0 +1,24 @@
+{
+    "ERROR_COINS_NOT_ENOUGH_TO_GIVE": {
+		"en": "You don't have {coins} to give, {me}.",
+		"ro": "Nu ai {coins} pentru transfer, {me}."
+	},
+	"ERROR_CANNOT_RECEIVE_COINS": {
+		"en": "Anons, non-whitelisted, parked and ignored users cannot receive coins, {me}.",
+		"ro": "Utilizatorii anonimi, neînregistraţi, parcaţi şi cei ignoraţi nu pot primi monede, {me}."
+	},
+
+	"SUCCESS_COINS_RECEIVED": {
+		"en": "You just gave {coins} to {receiver}, {me}.",
+		"ro": "{receiver} a primit {coins}, {me}."
+	},
+
+	"COINS_RECEIVED_NOTIFY": {
+	    "en": "{username} has sent you {coins}.",
+	    "ro": "{username} ţi-a trimis {coins}."
+	},
+	"COINS_RECEIVED_NOTIFY_ROOM": {
+	    "en": "{username} ({room_name}) has sent you {coins}.",
+	    "ro": "{username} ({room_name}) ţi-a trimis {coins}."
+	}
+}

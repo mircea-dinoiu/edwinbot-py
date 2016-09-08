@@ -1,0 +1,42 @@
+{
+    "SPUN": {
+		"en": "{0} spun [ {1} ♦ {2} ♦ {3} ] and ",
+		"ro": "{0} a învârtit [ {1} ♦ {2} ♦ {3} ] şi "
+	},
+    "ERROR_COINS_NOT_ENOUGH_TO_BET": {
+		"en": "You don't have {coins} to bet, {me}.",
+		"ro": "Nu ai {coins} pentru pariu, {me}."
+	},
+	"BET_COINS_RED_BLACK_CHOSEN": {
+	    "en": "{0} has chosen {1} and ",
+	    "ro": "{0} a ales {1} şi "
+	},
+	"BET_COINS_RED_BLACK": {
+	    "en": "You can double this reward by playing {red} or {black}. Use {cmd} {red_arg} for {red} or {cmd} {black_arg} for {black}.",
+	    "ro": "Poţi să-ţi dublezi câştigul jucând {red} sau {black}. Foloseşte {cmd} {red_arg} pentru {red} sau {cmd} {black_arg} pentru {black}."
+	},
+	"BET_COINS_CHANGED": {
+	    "en": "Your coins have been changed in the meantime, {username}. You can't play {red} or {black} anymore.",
+	    "ro": "Monedele tale s-au schimbat între timp, {username}. Nu mai poţi juca {red} sau {black}."
+	},
+	"BET_COINS_RED": {
+	    "en": "RED",
+	    "ro": "ROŞIE"
+	},
+	"BET_COINS_BLACK": {
+	    "en": "BLACK",
+	    "ro": "NEAGRĂ"
+	},
+	"WON_COINS": {
+		"en": "won {0} (~) .",
+		"ro": "a câştigat {0} (~) ."
+	},
+	"LOST_COINS": {
+		"en": "lost {0} :( .",
+		"ro": "a pierdut {0} :( ."
+	},
+	"TOTAL_COINS": {
+	    "en": ", having {0} now.",
+	    "ro": ", iar acum are {0}."
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"SEEN": {
+	    "en": "Last saw {username} on {room_name} {time_passed} ago saying: {message}",
+        "ro": "{username} a fost văzut ultima oară pe {room_name} acum {time_passed} spunând: {message}"
+	}
+}

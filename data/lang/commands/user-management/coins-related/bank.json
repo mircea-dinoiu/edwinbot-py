@@ -1,0 +1,26 @@
+{
+    "BANK_DEPOSITED": {
+        "en": "Total deposited: {coins}.",
+        "ro": "Total depozitat: {coins}."
+    },
+    "ERROR_NOT_ENOUGH_DEPOSITED": {
+        "en": "You don't have enough funds.",
+        "ro": "Fondurile tale sunt insuficente."
+    },
+    "ERROR_NOT_ENOUGH_COINS_TO_DEPOSIT": {
+        "en": "You don't have {coins} to deposit.",
+        "ro": "Nu ai {coins} ca să le poţi depozita."
+    },
+    "SUCCESS_BANK_DEPOSIT": {
+        "en": "You have just deposited {coins} in your bank account.",
+        "ro": "Tocmai ai depozitat {coins} în contul tău bancar."
+    },
+    "SUCCESS_BANK_WITHDRAW": {
+        "en": "You have just withdrew {coins} from your bank account.",
+        "ro": "Tocmai ai retras {coins} din contul tău bancar."
+    },
+    "BANK_EARNINGS": {
+        "en": "You have earned {coins} in the last 24 hours thanks to your bank account.",
+        "ro": "Ai strâns {coins} în ultimele 24 de ore mulţumită contului tău bancar."
+    }
+}

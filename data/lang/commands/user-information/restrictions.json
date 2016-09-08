@@ -1,0 +1,34 @@
+{
+	"RESTRICTED_COMMANDS_NO_GAMES": {
+		"en": "{0} can play any game, but cannot use the following commands: {1}.",
+		"ro": "{0} poate participa la orice joc, dar nu poate folosi comenzile următoare: {1}."
+	},
+	"RESTRICTED_GAMES_NO_COMMANDS": {
+		"en": "{0} can use all of the commands, but cannot play the following games: {1}.",
+		"ro": "{0} poate folosi orice comandă, dar nu poate participa la jocurile următoare: {1}."
+	},
+	"RESTRICTED_COMMANDS_AND_GAMES": {
+		"en": "{0} neither can use the following commands: {1} nor play these games: {2}.",
+		"ro": "{0} nu poate folosi comenzile următoare: {1} şi nici nu poate participa la jocurile: {2}."
+	},
+	"NO_RESTRICTIONS": {
+		"en": "There are no restrictions for {0}.",
+		"ro": "Nu există nicio restricţie pentru {0}."
+	},
+	"RESTRICTED_COMMANDS_NO_GAMES_FOR_YOU": {
+		"en": "{0}, you can play any game, but you cannot use the following commands: {1}.",
+		"ro": "{0}, poţi participa la orice joc, dar nu poţi folosi comenzile următoare: {1}."
+	},
+	"RESTRICTED_GAMES_NO_COMMANDS_FOR_YOU": {
+		"en": "{0}, you can use all of the commands, but you cannot play the following games: {1}.",
+		"ro": "{0}, poţi folosi orice comandă, dar nu poţi participa la jocurile următoare: {1}."
+	},
+	"RESTRICTED_COMMANDS_AND_GAMES_FOR_YOU": {
+		"en": "{0}, you neither can use the following commands: {1} nor play these games: {2}.",
+		"ro": "{0}, nu poţi folosi comenzile următoare: {1} şi nici nu poţi participa la jocurile: {2}."
+	},
+	"NO_RESTRICTIONS_FOR_YOU": {
+		"en": "There are no restrictions for you, {0}.",
+		"ro": "Nu există nicio restricţie pentru tine, {0}."
+	}
+}

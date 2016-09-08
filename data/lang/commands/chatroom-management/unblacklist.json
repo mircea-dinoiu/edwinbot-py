@@ -1,0 +1,15 @@
+{
+	"ERROR_WHAT_ROOM_TO_UNBLACKLIST": {
+		"en": "Which room do you want to remove from blacklist, {username}?",
+		"ro": "Precizează camera de chat care vrei să fie ştearsă de pe lista de camere interzise, {username}."
+	},
+	"ERROR_ROOM_NOT_BLACKLISTED": {
+        "en": "{room_name} is not blacklisted, {username}.",
+        "ro": "{room_name} nu e interzisă, {username}."
+	},
+
+	"SUCCESS_REMOVED_FROM_BLACKLIST": {
+		"en": "{room_name} is not blacklisted anymore, {username}.",
+		"ro": "{room_name} nu mai e interzisă, {username}."
+	}
+}

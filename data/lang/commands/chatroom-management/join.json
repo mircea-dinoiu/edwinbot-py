@@ -1,0 +1,10 @@
+{
+	"ERROR_WHAT_ROOM_TO_JOIN": {
+		"en": "Where do you want me to join, {username}?",
+		"ro": "Nu ai specificat nicio cameră de chat, {username}."
+	},
+	"SUCCESS_JOIN_ROOM": {
+		"en": "I'm going to {room_name}, {username}.",
+		"ro": "Mă duc pe {room_name}, {username}."
+	}
+}

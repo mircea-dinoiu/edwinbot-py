@@ -1,0 +1,15 @@
+{
+    "ERROR_PM_CANNOT_REMOVE_CONTACTS": {
+        "en": "I can't remove any contact right now, {me}.",
+        "ro": "Nu pot elimina niciun contact în momentul acesta, {me}."
+    },
+    "ERROR_PM_CONTACTS_NOT_EXISTING": {
+        "en": "{me}, the following users are not in my PM contact list: {contacts}.",
+        "ro": "{me}, următorii utilizatori nu se regăsesc în contactele mele din PM: {contacts}."
+    },
+
+    "SUCCESS_PM_CONTACTS_REMOVED": {
+        "en": "{me}, the following users were successfully removed from my PM contact list: {contacts}.",
+        "ro": "{me}, următorii utilizatori au fost eliminaţi din contactele mele din PM: {contacts}."
+    }
+}

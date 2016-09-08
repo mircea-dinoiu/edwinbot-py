@@ -1,0 +1,6 @@
+{
+	"COMMAND_LIST": {
+		"en": "{me}, you have access to {command_count}: {command_list}.",
+		"ro": "{me}, ai acces la {command_count}: {command_list}."
+	}
+}

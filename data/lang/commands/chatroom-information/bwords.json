@@ -1,0 +1,10 @@
+{
+	"NO_BANNED_WORDS": {
+		"en": "There are no banned words on {room_name}, {username}.",
+		"ro": "Nu sunt cuvinte interzise pe {room_name}, {username}."
+	},
+	"BANNED_WORDS": {
+		"en": "There are {count} banned words on {room_name}: {bwords_list}.",
+		"ro": "{count} cuvinte sunt interzise pe {room_name}: {bwords_list}."
+	}
+}
